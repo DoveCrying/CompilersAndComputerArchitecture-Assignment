@@ -89,21 +89,23 @@
 - Utilises a main program int main(), which needs to occurr at least once in the function declarations.
 
 ### Example Programs
-Example #1
-
+#### Example #1
+```
   int fun(int x, int y, int z) {
     if (x == y) then { z } else { 0 } }
 
   int main() { fun(1, 2, 3) }
-Example #2
-
+```
+#### Example #2
+```
   int main() { fibo(10) }
   int fibo(int n) {
     if (n < 2)
     then { n } 
     else { (fibo((n - 1)) + fibo((n - 2))) } }
+```
 Example #3
-
+```
   unit doLoop (int i, int a) {
     while (i <= 100) do {
       a := (a + i);
@@ -112,11 +114,13 @@ Example #3
   int main() {
     doLoop(0, 5);
     1337 }
-Example #4
-
+```
+#### Example #4
+```
   int main() { fact(10) }
 
   int fact(int n) {
     if (n == 0)
     then { 1 } 
     else { (n * fact((n - 1))) } }
+```
