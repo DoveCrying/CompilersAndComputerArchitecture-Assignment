@@ -74,6 +74,17 @@
 
   INTLIT →	(an integer)
 ```
+
+### Tasks
+#### Task 1
+
+
+#### Task 2
+
+
+#### Task 3
+
+
 ### Lexems
 - Keywords:
 - - if , then , else , skip , while , do , repeat , until , int , bool , and unit.
