@@ -77,13 +77,16 @@
 
 ### Tasks
 #### Task 1
-
+Lexer and Parser
+Relevant Work can be found at: task1/src/AlgorithmANTLRAnalyser.java
 
 #### Task 2
-
+Type Checker
+Relevant work can be found at: task2/src/SExpressionsAnalyser.java
 
 #### Task 3
-
+Code Generation
+Relevant work can be found at: task3/src/SExpressionsAnalyser.java
 
 ### Lexems
 - Keywords:
