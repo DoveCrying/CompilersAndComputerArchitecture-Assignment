@@ -1,4 +1,5 @@
 ### CFG 
+```
   PROG →	DEC | DEC PROG
 
 
@@ -72,7 +73,7 @@
 
 
   INTLIT →	(an integer)
-
+```
 ### Lexems
 - Keywords:
 - - if , then , else , skip , while , do , repeat , until , int , bool , and unit.
